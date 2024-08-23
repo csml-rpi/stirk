@@ -21,6 +21,10 @@ conda activate dmpc
 pip install -e.
 ```
 
+## Description
+
+![](summary_3.png)
+
 <!-- 
 ## Train
 These are two examples of running DSAC-T on two environments. 
